@@ -1,0 +1,7 @@
+{
+  "name": "learn-angularfire-7",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
